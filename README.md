@@ -1,7 +1,10 @@
 # Content-Based-Movie-Recommender-System
-![image](https://github.com/Adityashah0428/Content-Based-Movie-Recommender-System/assets/138614691/7775f7cc-f86c-4b2b-82a7-7083887bf0db)
 
-![image](https://github.com/Adityashah0428/Content-Based-Movie-Recommender-System/assets/138614691/3c83dd93-cd64-43c0-8a2f-2e0e078238b4)
+![image](https://github.com/Adityashah0428/Content-Based-Movie-Recommender-System/assets/138614691/bdfa5b43-6436-4618-a460-ce425c01c07c)
+
+![image](https://github.com/Adityashah0428/Content-Based-Movie-Recommender-System/assets/138614691/a3be7a0b-fe01-4777-b74b-403038e21f69)
+
+
 
 
 
